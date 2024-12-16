@@ -21,7 +21,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Models\V2_1_0\" />
       <Folder Include="Schemas\V2_0_0\" />
       <Folder Include="Schemas\V2_1_0\" />
     </ItemGroup>
