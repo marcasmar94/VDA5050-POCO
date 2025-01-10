@@ -1,7 +1,3 @@
-Here’s a draft for your `README.md` file for the `main` branch:
-
----
-
 # VDA5050 POCO Models
 
 This repository provides plain C# models for the different versions of the VDA5050 standard. The structure of the repository is designed to allow easy access and management of models for each version of the standard.
